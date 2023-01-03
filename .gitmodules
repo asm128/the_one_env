@@ -1,0 +1,9 @@
+[submodule "the_one"]
+	path = the_one
+	url = https://github.com/rgbvillain/the_one
+[submodule "gpk"]
+	path = gpk
+	url = https://github.com/asm128/gpk
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/asm128/zlib
