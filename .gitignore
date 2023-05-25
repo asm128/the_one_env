@@ -2,3 +2,6 @@
 x64.*
 Win32.*
 obj/
+gpk_samples/
+the_one - Copy/
+curl/
